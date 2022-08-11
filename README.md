@@ -11,7 +11,7 @@ I was also learning about some basic AI concepts at school and I wanted to apply
 
 ## 🚀 What it Does
 
-My version of the Chrome Dino Game is nearly identical to the original, with an accurate physics model, infinite scroll, and a saved high score. I then
+My version of the Chrome Dino Game is nearly identical to the original, with an accurate physics model, infinite scroll, soundfx, and a saved high score. I then
 modified it with a neural network that learns to play the game over time and consistently got better.
 
 ## 💎 How I built it
